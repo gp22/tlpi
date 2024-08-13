@@ -11,7 +11,7 @@ EXIT_SUCCESS and EXIT_FAILURE constants */
 
  /* Delcares our functions for handling numeric arguments,
 (getInt(), getLong()) */
-//#include "get_num.h"
+#include "get_num.h"
 
 #include "error_functions.h" /* Delcares our error-handling functions */
 
